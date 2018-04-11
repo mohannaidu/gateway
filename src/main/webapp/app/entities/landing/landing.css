@@ -1,0 +1,11 @@
+.loginDiv {
+	background-color: #fff;
+	background: url('../../../content/images/graphic/login_screen_bg.png');
+	background-size: 130%;
+	height: auto;
+	background-repeat: no-repeat;
+	background-position: inherit;
+	width: 100%;
+	padding: 20px;
+	margin: 0;
+}

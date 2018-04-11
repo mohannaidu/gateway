@@ -1,0 +1,27 @@
+
+{
+    "gatewayApp": {
+        "sector" : {
+            "home": {
+                "title": "Sectors",
+                "createLabel": "Buat Sector baru",
+                "createOrEditLabel": "Buat atau edit Sector"
+            },
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Sector {{ id }}?"
+            },
+            "detail": {
+                "title": "Sector"
+            },
+            "name": "Name",
+            "info": "Info"
+        }
+    },
+    "stockservicesApp": {
+        "sector" : {
+            "created": "Sector dengan id {{ param }} telah dibuat",
+            "updated": "Sector dengan id {{ param }} telah diperbaharui",
+            "deleted": "Sector dengan id {{ param }} telah dihapus"
+        }
+    }
+}

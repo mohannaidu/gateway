@@ -1,0 +1,27 @@
+
+{
+    "gatewayApp": {
+        "sector" : {
+            "home": {
+                "title": "Sectors",
+                "createLabel": "Create a new Sector",
+                "createOrEditLabel": "Create or edit a Sector"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Sector {{ id }}?"
+            },
+            "detail": {
+                "title": "Sector"
+            },
+            "name": "Name",
+            "info": "Info"
+        }
+    },
+    "stockservicesApp": {
+        "sector" : {
+            "created": "A new Sector is created with identifier {{ param }}",
+            "updated": "A Sector is updated with identifier {{ param }}",
+            "deleted": "A Sector is deleted with identifier {{ param }}"
+        }
+    }
+}

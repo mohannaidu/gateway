@@ -1,0 +1,71 @@
+{
+	"id": 1,
+	"name": "Apple Inc.",
+	"code": "AAPL",
+	"values": [
+		{
+			"main": {
+				"volume": 120,
+				"price": 560,
+				"percentage": 89,
+				"publishDate": 1230768000000
+			}
+		},
+		{
+			"main": {
+				"volume": 250,
+				"price": 450,
+				"percentage": 80,
+				"publishDate": 1230854400000
+			}
+		},
+		{
+			"main": {
+				"volume": 10,
+				"price": 200,
+				"percentage": 25,
+				"publishDate": 1231113600000
+			}
+		},
+		{
+			"main": {
+				"volume": 960,
+				"price": 560,
+				"percentage": 92,
+				"publishDate": 1231200000000
+			}
+		},
+		{
+			"main": {
+				"volume": 450,
+				"price": 220,
+				"percentage": 65,
+				"publishDate": 1231286400000
+			}
+		},
+		{
+			"main": {
+				"volume": 560,
+				"price": 125,
+				"percentage": 49,
+				"publishDate": 1231372800000
+			}
+		},
+		{
+			"main": {
+				"volume": 20,
+				"price": 45,
+				"percentage": 10,
+				"publishDate": 1231459200000
+			}
+		},
+		{
+			"main": {
+				"volume": 540,
+				"price": 250,
+				"percentage": 68,
+				"publishDate": 1231718400000
+			}
+		}
+	]
+}

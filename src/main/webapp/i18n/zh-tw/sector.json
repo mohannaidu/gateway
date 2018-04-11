@@ -1,0 +1,27 @@
+
+{
+    "gatewayApp": {
+        "sector" : {
+            "home": {
+                "title": "Sectors",
+                "createLabel": "建立一筆新的 Sector",
+                "createOrEditLabel": "建立或編輯 Sector"
+            },
+            "delete": {
+                "question": "您確定要刪除 Sector {{ id }} 嗎?"
+            },
+            "detail": {
+                "title": "Sector"
+            },
+            "name": "Name",
+            "info": "Info"
+        }
+    },
+    "stockservicesApp": {
+        "sector" : {
+            "created": "新的 Sector 建立成功，識別碼為 {{ param }}",
+            "updated": "識別碼為 {{ param }} 的 Sector 更新成功",
+            "deleted": "識別碼為 {{ param }} 的 Sector 刪除成功"
+        }
+    }
+}
